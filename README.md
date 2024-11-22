@@ -11,7 +11,7 @@
    - Design logic for motor speed control (PWM) and user input interface.
   
 **PCB Layout**
-![image](https://github.com/user-attachments/assets/40ec34bb-dc6e-4a3c-bd5a-0d3ff3f35a76)
+![image](https://github.com/user-attachments/assets/2831ce25-ea53-408a-9952-eabcd2cc1b6a)
 
 
 3. **Wiring and Electrical Schematic** *(September 29 – September 30, 2024)*:
