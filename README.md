@@ -9,9 +9,17 @@
 2. **Control System Design** *(September 26 – September 28, 2024)*:
    - Choose a microcontroller for motor control.
    - Design logic for motor speed control (PWM) and user input interface.
+  
+**PCB Layout**
+![image](https://github.com/user-attachments/assets/40ec34bb-dc6e-4a3c-bd5a-0d3ff3f35a76)
+
 
 3. **Wiring and Electrical Schematic** *(September 29 – September 30, 2024)*:
    - Create wiring diagrams for motors, sensors, and the user interface.
+  
+**PCB Wiring Diagram**
+![image](https://github.com/user-attachments/assets/62218c73-e864-430d-bb13-e4ca202b3df9)
+
    
 4. **Safety Circuits and Power Supply Design** *(October 1, 2024)*:
    - Design emergency stop circuits and the power supply.
